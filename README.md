@@ -26,9 +26,8 @@
 
 ![Variable distribution](Credit_rating_prediction/resources/data_exploration.png)
 
-![Variable distribution processed](Credit_rating_prediction/resources/data_processed.png )
 
-<img src="Credit_rating_prediction/resources/data_processed.png" width="480">
+<img src="Credit_rating_prediction/resources/data_processed.png" width="800">
 
 
 |          Algorithm     |  Accuracy |  Precision  |  Recall  |  F1-support  |  AUC     |
