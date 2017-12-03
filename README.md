@@ -1,4 +1,4 @@
-# Predictive analytics on credit repport Data 
+# Predictive analytics on credit report Data 
 
 ## Data Description
 
@@ -21,14 +21,21 @@
 |75%   |   24.000000  |  3972.250000   |    4.000000            |       4.000000   |    42.000000  |        2.000000   |     1.000000   | 
 |max   |   72.000000  | 18424.000000   |    4.000000            |       4.000000   |    75.000000  |        4.000000   |     2.000000   | 
 
-               
-
-
-
-
-
-
-
-
  
 ![Class Distribution](Credit_rating_prediction/resources/class_exploration.png)
+
+![Variable distribution](Credit_rating_prediction/resources/data_exploration.png)
+
+![Variable distribution processed](Credit_rating_prediction/resources/data_processed.png)
+
+
+|          Algorithm     |  Accuracy |  Precision  |  Recall  |  F1-support  |  AUC     |
+|------------------------|-----------|-------------|----------|--------------|----------|
+|Logistic Regression     | 0.696667  |   0.729167  |0.870647  |    0.793651  |0.607041  |
+|Linear SVC              | 0.67      |   0.675862  |0.975124  |    0.798371  |0.512815  |
+|Decision Tree classifier| 0.676667  |   0.742991  |0.791045  |    0.766265  |0.617745  |
+|Random Forest           | 0.733333  |   0.7713    |0.855721  |    0.811321  |0.670285  |
+|Multilayer Perceptron   | 0.663333  |   0.7713    |0.855721  |    0.811321  |0.670285  |
+
+
+![Variable Top Features](Credit_rating_prediction/resources/top_features.png)
