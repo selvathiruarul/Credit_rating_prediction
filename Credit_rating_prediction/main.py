@@ -20,7 +20,7 @@ sns.set(style="white")
 sns.set(style="whitegrid", color_codes=True)
 
 BASE_DIR = os.path.dirname(__file__)
-FILE_NAME = 'resources/creditData.csv'
+FILE_NAME = BASE_DIR+'/resources/creditData.csv'
 df = pd.read_csv(FILE_NAME)
 headers = ['Algorithm', 'Accuracy', 'Precision', 'Recall', 'F1-support', 'AUC']
 
