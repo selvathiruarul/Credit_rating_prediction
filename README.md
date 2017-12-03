@@ -1,4 +1,4 @@
-# Predictive analytics on credit report Data[![Build Status](https://travis-ci.org/selvathiruarul/Credit_Rating_prediction.svg?branch=master)](https://travis-ci.org/selvathiruarul/credit_Rating_prediction) 
+# Predictive analytics on credit report Data[![Build Status](https://travis-ci.org/selvathiruarul/Credit_rating_prediction.svg?branch=master)](https://travis-ci.org/selvathiruarul/credit_rating_prediction) 
 
 ## Data Description
 
