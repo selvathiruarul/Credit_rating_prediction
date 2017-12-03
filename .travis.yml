@@ -3,4 +3,4 @@ python:
 - '3.5.2'
 install:
 - pip install .
-script: python3 Credit_rating_prediction/resources/main.py
+script: python main.py
